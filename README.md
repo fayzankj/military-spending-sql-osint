@@ -29,5 +29,5 @@ Using structured SQL queries, we investigate:
 ---
 
 ## 🔖 Tags
-`#SQL` `#OSINT` `#Geopolitics` `#SIPRI` `#MilitarySpending` `#DataAnalysis` `#DuckDB` `#GlobalSecurity`
+`#SQL` `#OSINT` `#Geopolitics` `#SIPRI` `#MilitarySpending` `#DataAnalysis` `#GlobalSecurity`
 
