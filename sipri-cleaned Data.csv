@@ -1,0 +1,978 @@
+Country,Year,Value,Metric
+United States of America,1988,797865.9861,constant_usd
+India,1988,20336.22826,constant_usd
+Pakistan,1988,3922.480444,constant_usd
+Iran,1988,2951.363764,constant_usd
+Israel,1988,15621.33421,constant_usd
+United States of America,1989,791125.5269,constant_usd
+India,1989,21429.18967,constant_usd
+Pakistan,1989,3934.081994,constant_usd
+China,1989,20219.34913,constant_usd
+Iran,1989,2182.828392,constant_usd
+Israel,1989,12347.346,constant_usd
+United States of America,1990,758217.2865,constant_usd
+India,1990,21108.19272,constant_usd
+Pakistan,1990,4152.05839,constant_usd
+China,1990,21980.30807,constant_usd
+Iran,1990,1938.062421,constant_usd
+Israel,1990,13039.64128,constant_usd
+United States of America,1991,669786.5332,constant_usd
+India,1991,19709.04219,constant_usd
+Pakistan,1991,4444.763214,constant_usd
+China,1991,23363.04959,constant_usd
+Iran,1991,1747.353371,constant_usd
+Israel,1991,17714.92112,constant_usd
+United States of America,1992,705819.6868,constant_usd
+India,1992,18836.11367,constant_usd
+Pakistan,1992,4726.010601,constant_usd
+China,1992,28412.45147,constant_usd
+Russia,1992,47565.80149,constant_usd
+Iran,1992,1516.480118,constant_usd
+Israel,1992,13372.46233,constant_usd
+United States of America,1993,668046.7216,constant_usd
+India,1993,21274.60261,constant_usd
+Pakistan,1993,4701.859369,constant_usd
+China,1993,26127.74605,constant_usd
+Russia,1993,41580.9007,constant_usd
+Iran,1993,1775.89857,constant_usd
+Israel,1993,14705.30814,constant_usd
+United States of America,1994,633319.0603,constant_usd
+India,1994,21369.54373,constant_usd
+Pakistan,1994,4566.771452,constant_usd
+China,1994,25140.05404,constant_usd
+Russia,1994,39308.19292,constant_usd
+Iran,1994,2191.744311,constant_usd
+Israel,1994,13961.6161,constant_usd
+United States of America,1995,591579.8358,constant_usd
+India,1995,22010.06933,constant_usd
+Pakistan,1995,4645.721797,constant_usd
+China,1995,26111.84906,constant_usd
+Russia,1995,25863.25092,constant_usd
+Iran,1995,2150.016891,constant_usd
+Israel,1995,12972.10172,constant_usd
+United States of America,1996,559401.1583,constant_usd
+India,1996,22409.12634,constant_usd
+Pakistan,1996,4644.501963,constant_usd
+China,1996,27663.25527,constant_usd
+Russia,1996,24420.90333,constant_usd
+Iran,1996,2370.876244,constant_usd
+Israel,1996,13207.06588,constant_usd
+United States of America,1997,556507.3245,constant_usd
+India,1997,24806.17682,constant_usd
+Pakistan,1997,4447.051854,constant_usd
+China,1997,29511.61168,constant_usd
+Russia,1997,26698.65395,constant_usd
+Iran,1997,2644.575702,constant_usd
+Israel,1997,13228.8648,constant_usd
+United States of America,1998,543941.2631,constant_usd
+India,1998,25881.00642,constant_usd
+Pakistan,1998,4447.014264,constant_usd
+China,1998,32223.02962,constant_usd
+Russia,1998,15877.50546,constant_usd
+Iran,1998,2646.630416,constant_usd
+Israel,1998,13035.71954,constant_usd
+United States of America,1999,545279.8161,constant_usd
+India,1999,30077.51974,constant_usd
+Pakistan,1999,4490.986948,constant_usd
+China,1999,39282.53941,constant_usd
+Russia,1999,17632.27164,constant_usd
+Iran,1999,2676.896119,constant_usd
+Israel,1999,12764.92916,constant_usd
+United States of America,2000,566381.0092,constant_usd
+India,2000,31036.35672,constant_usd
+Pakistan,2000,4500.60432,constant_usd
+China,2000,42518.97624,constant_usd
+Russia,2000,23790.00667,constant_usd
+Iran,2000,2947.163746,constant_usd
+Israel,2000,13539.1515,constant_usd
+United States of America,2001,570980.9576,constant_usd
+India,2001,32117.31354,constant_usd
+Pakistan,2001,4814.607641,constant_usd
+China,2001,50416.05809,constant_usd
+Russia,2001,25709.87732,constant_usd
+Iran,2001,3280.817666,constant_usd
+Israel,2001,14099.41999,constant_usd
+United States of America,2002,641102.5302,constant_usd
+India,2002,32017.90259,constant_usd
+Pakistan,2002,5177.680738,constant_usd
+China,2002,57905.09623,constant_usd
+Russia,2002,28481.20127,constant_usd
+Iran,2002,3531.427244,constant_usd
+Israel,2002,14078.53305,constant_usd
+United States of America,2003,729680.5569,constant_usd
+India,2003,32732.78112,constant_usd
+Pakistan,2003,5532.888765,constant_usd
+China,2003,62667.32137,constant_usd
+Russia,2003,29863.59517,constant_usd
+Iran,2003,4121.685061,constant_usd
+Israel,2003,13848.67174,constant_usd
+United States of America,2004,795293.5172,constant_usd
+India,2004,38022.11693,constant_usd
+Pakistan,2004,5760.283611,constant_usd
+China,2004,69026.33013,constant_usd
+Russia,2004,31213.87469,constant_usd
+Iran,2004,5326.274384,constant_usd
+Israel,2004,14313.29642,constant_usd
+United States of America,2005,831923.866,constant_usd
+India,2005,40464.0246,constant_usd
+Pakistan,2005,5995.324435,constant_usd
+China,2005,75799.84519,constant_usd
+Russia,2005,35471.74859,constant_usd
+Iran,2005,6333.574468,constant_usd
+Israel,2005,14666.56843,constant_usd
+United States of America,2006,843911.6623,constant_usd
+India,2006,40791.88174,constant_usd
+Pakistan,2006,6094.534908,constant_usd
+China,2006,87250.55805,constant_usd
+Russia,2006,39261.84252,constant_usd
+Iran,2006,7583.813514,constant_usd
+Israel,2006,14896.90562,constant_usd
+United States of America,2007,866430.4709,constant_usd
+India,2007,41284.65143,constant_usd
+Pakistan,2007,6136.934415,constant_usd
+China,2007,95911.12008,constant_usd
+Russia,2007,42736.57006,constant_usd
+Iran,2007,6973.776548,constant_usd
+Israel,2007,16705.81389,constant_usd
+United States of America,2008,929457.8236,constant_usd
+India,2008,46827.11941,constant_usd
+Pakistan,2008,5785.875433,constant_usd
+China,2008,104937.2889,constant_usd
+Russia,2008,46957.88025,constant_usd
+Iran,2008,6709.171052,constant_usd
+Israel,2008,16924.66985,constant_usd
+United States of America,2009,1002596.417,constant_usd
+India,2009,55131.65768,constant_usd
+Pakistan,2009,5962.626848,constant_usd
+China,2009,127335.0381,constant_usd
+Russia,2009,49267.71871,constant_usd
+Iran,2009,7019.757197,constant_usd
+Israel,2009,16582.06249,constant_usd
+United States of America,2010,1031257.143,constant_usd
+India,2010,55353.35689,constant_usd
+Pakistan,2010,6234.974808,constant_usd
+China,2010,133606.6706,constant_usd
+Russia,2010,50269.26203,constant_usd
+Iran,2010,7142.86536,constant_usd
+Israel,2010,16702.85147,constant_usd
+United States of America,2011,1019045.941,constant_usd
+India,2011,55862.06075,constant_usd
+Pakistan,2011,6572.602885,constant_usd
+China,2011,143428.9071,constant_usd
+Russia,2011,53649.2469,constant_usd
+Iran,2011,6164.815378,constant_usd
+Israel,2011,16809.57757,constant_usd
+United States of America,2012,962443.2343,constant_usd
+India,2012,55578.57065,constant_usd
+Pakistan,2012,6970.211476,constant_usd
+China,2012,158165.5631,constant_usd
+Russia,2012,62160.7695,constant_usd
+Iran,2012,6418.306016,constant_usd
+Israel,2012,17136.27738,constant_usd
+United States of America,2013,888413.2167,constant_usd
+India,2013,55615.35869,constant_usd
+Pakistan,2013,7209.496279,constant_usd
+China,2013,171025.4522,constant_usd
+Russia,2013,65190.09691,constant_usd
+Iran,2013,5168.746604,constant_usd
+Israel,2013,17673.27429,constant_usd
+United States of America,2014,833765.0167,constant_usd
+India,2014,58325.18186,constant_usd
+Pakistan,2014,7583.128624,constant_usd
+China,2014,184676.8387,constant_usd
+Russia,2014,69865.76744,constant_usd
+Iran,2014,5153.560623,constant_usd
+Israel,2014,19026.76834,constant_usd
+United States of America,2015,814831.4027,constant_usd
+India,2015,58879.31434,constant_usd
+Pakistan,2015,8237.279168,constant_usd
+China,2015,199174.6848,constant_usd
+Russia,2015,75301.20281,constant_usd
+Iran,2015,5479.582325,constant_usd
+Israel,2015,19293.58277,constant_usd
+United States of America,2016,812331.0399,constant_usd
+India,2016,64884.24701,constant_usd
+Pakistan,2016,8519.121755,constant_usd
+China,2016,210640.251,constant_usd
+Russia,2016,80726.07279,constant_usd
+Iran,2016,6290.746815,constant_usd
+Israel,2016,20315.93238,constant_usd
+United States of America,2017,803961.2266,constant_usd
+India,2017,69454.96031,constant_usd
+Pakistan,2017,9337.929224,constant_usd
+China,2017,223594.9537,constant_usd
+Russia,2017,65414.05684,constant_usd
+Iran,2017,7077.928147,constant_usd
+Israel,2017,21182.3932,constant_usd
+United States of America,2018,828158.3079,constant_usd
+India,2018,71900.84543,constant_usd
+Pakistan,2018,10443.60515,constant_usd
+China,2018,236692.3018,constant_usd
+Russia,2018,62949.40505,constant_usd
+Iran,2018,6289.30097,constant_usd
+Israel,2018,21444.69616,constant_usd
+United States of America,2019,875217.3627,constant_usd
+India,2019,76976.83503,constant_usd
+Pakistan,2019,10316.46178,constant_usd
+China,2019,248223.32,constant_usd
+Russia,2019,65770.95607,constant_usd
+Iran,2019,5262.207395,constant_usd
+Israel,2019,21572.6078,constant_usd
+United States of America,2020,916416.6383,constant_usd
+India,2020,77443.73733,constant_usd
+Pakistan,2020,10148.23111,constant_usd
+China,2020,259923.3282,constant_usd
+Russia,2020,67316.15671,constant_usd
+Iran,2020,5473.190062,constant_usd
+Israel,2020,22472.53363,constant_usd
+United States of America,2021,906594.2544,constant_usd
+India,2021,76952.86091,constant_usd
+Pakistan,2021,10581.1918,constant_usd
+China,2021,266692.2923,constant_usd
+Russia,2021,68649.75527,constant_usd
+Iran,2021,6651.958915,constant_usd
+Israel,2021,23163.26939,constant_usd
+United States of America,2022,896121.2034,constant_usd
+India,2022,80348.4948,constant_usd
+Pakistan,2022,9877.284211,constant_usd
+China,2022,278474.4401,constant_usd
+Russia,2022,88877.3682,constant_usd
+Iran,2022,6995.997485,constant_usd
+Israel,2022,22207.21962,constant_usd
+United States of America,2023,916014.7,constant_usd
+India,2023,82293.33216,constant_usd
+Pakistan,2023,8626.157588,constant_usd
+China,2023,296821.3776,constant_usd
+Russia,2023,109203.6247,constant_usd
+Iran,2023,7390.861136,constant_usd
+Israel,2023,27498.52786,constant_usd
+United States of America,2024,968381.5949,constant_usd
+India,2024,83623.14058,constant_usd
+Pakistan,2024,8183.350599,constant_usd
+China,2024,317561.0423,constant_usd
+Russia,2024,150533.9968,constant_usd
+Iran,2024,6645.968398,constant_usd
+Israel,2024,45267.12362,constant_usd
+United States of America,1988,0.060712777,share_gdp
+India,1988,0.037286718,share_gdp
+Pakistan,1988,0.067858107,share_gdp
+Iran,1988,0.062697776,share_gdp
+Israel,1988,0.159470946,share_gdp
+United States of America,1989,0.05871206,share_gdp
+India,1989,0.035341797,share_gdp
+Pakistan,1989,0.065327253,share_gdp
+China,1989,0.024471013,share_gdp
+Iran,1989,0.045579805,share_gdp
+Israel,1989,0.124457327,share_gdp
+United States of America,1990,0.056051753,share_gdp
+India,1990,0.031462146,share_gdp
+Pakistan,1990,0.065223202,share_gdp
+China,1990,0.024540161,share_gdp
+Iran,1990,0.029426501,share_gdp
+Israel,1990,0.123626862,share_gdp
+United States of America,1991,0.048834294,share_gdp
+India,1991,0.029099743,share_gdp
+Pakistan,1991,0.065709528,share_gdp
+China,1991,0.023112434,share_gdp
+Iran,1991,0.02169708,share_gdp
+Israel,1991,0.155869829,share_gdp
+United States of America,1992,0.049704668,share_gdp
+India,1992,0.027048397,share_gdp
+Pakistan,1992,0.066981875,share_gdp
+China,1992,0.024495421,share_gdp
+Russia,1992,0.044270323,share_gdp
+Iran,1992,0.017893054,share_gdp
+Israel,1992,0.109250775,share_gdp
+United States of America,1993,0.046043503,share_gdp
+India,1993,0.028235422,share_gdp
+Pakistan,1993,0.064273126,share_gdp
+China,1993,0.019280669,share_gdp
+Russia,1993,0.041813246,share_gdp
+Iran,1993,0.017003612,share_gdp
+Israel,1993,0.11523244,share_gdp
+United States of America,1994,0.042152647,share_gdp
+India,1994,0.026646737,share_gdp
+Pakistan,1994,0.059235483,share_gdp
+China,1994,0.016934796,share_gdp
+Russia,1994,0.045237007,share_gdp
+Iran,1994,0.0207301,share_gdp
+Israel,1994,0.101199658,share_gdp
+United States of America,1995,0.038602458,share_gdp
+India,1995,0.025784836,share_gdp
+Pakistan,1995,0.058202253,share_gdp
+China,1995,0.016862339,share_gdp
+Russia,1995,0.0378443,share_gdp
+Iran,1995,0.021541659,share_gdp
+Israel,1995,0.075279565,share_gdp
+United States of America,1996,0.035549822,share_gdp
+India,1996,0.024727682,share_gdp
+Pakistan,1996,0.060371663,share_gdp
+China,1996,0.016527267,share_gdp
+Russia,1996,0.037565588,share_gdp
+Iran,1996,0.022448645,share_gdp
+Israel,1996,0.073791773,share_gdp
+United States of America,1997,0.034055622,share_gdp
+India,1997,0.026477324,share_gdp
+Pakistan,1997,0.056212165,share_gdp
+China,1997,0.016326507,share_gdp
+Russia,1997,0.040398093,share_gdp
+Iran,1997,0.024988747,share_gdp
+Israel,1997,0.071795216,share_gdp
+United States of America,1998,0.032015585,share_gdp
+India,1998,0.027273114,share_gdp
+Pakistan,1998,0.05415095,share_gdp
+China,1998,0.016550807,share_gdp
+Russia,1998,0.027326491,share_gdp
+Iran,1998,0.026290792,share_gdp
+Israel,1998,0.067135995,share_gdp
+United States of America,1999,0.030856768,share_gdp
+India,1999,0.029571956,share_gdp
+Pakistan,1999,0.051898993,share_gdp
+China,1999,0.018714659,share_gdp
+Russia,1999,0.030732879,share_gdp
+Iran,1999,0.024045517,share_gdp
+Israel,1999,0.063023135,share_gdp
+United States of America,2000,0.031122421,share_gdp
+India,2000,0.029489299,share_gdp
+Pakistan,2000,0.041687227,share_gdp
+China,2000,0.018357597,share_gdp
+Russia,2000,0.033070298,share_gdp
+Iran,2000,0.022950422,share_gdp
+Israel,2000,0.061000198,share_gdp
+United States of America,2001,0.031238098,share_gdp
+India,2001,0.029244355,share_gdp
+Pakistan,2001,0.038789339,share_gdp
+China,2001,0.019830862,share_gdp
+Russia,2001,0.035463192,share_gdp
+Iran,2001,0.024181793,share_gdp
+Israel,2001,0.062999323,share_gdp
+United States of America,2002,0.034476181,share_gdp
+India,2002,0.028268668,share_gdp
+Pakistan,2002,0.040737702,share_gdp
+China,2002,0.020593647,share_gdp
+Russia,2002,0.037562774,share_gdp
+Iran,2002,0.021745764,share_gdp
+Israel,2002,0.063679593,share_gdp
+United States of America,2003,0.03827161,share_gdp
+India,2003,0.026777769,share_gdp
+Pakistan,2003,0.040914272,share_gdp
+China,2003,0.019962889,share_gdp
+Russia,2003,0.036708381,share_gdp
+Iran,2003,0.024050403,share_gdp
+Israel,2003,0.062528659,share_gdp
+United States of America,2004,0.040163127,share_gdp
+India,2004,0.028287522,share_gdp
+Pakistan,2004,0.039560341,share_gdp
+China,2004,0.019385082,share_gdp
+Russia,2004,0.033003536,share_gdp
+Iran,2004,0.028345578,share_gdp
+Israel,2004,0.06139407,share_gdp
+United States of America,2005,0.040892319,share_gdp
+India,2005,0.029105875,share_gdp
+Pakistan,2005,0.038970194,share_gdp
+China,2005,0.01871858,share_gdp
+Russia,2005,0.033312372,share_gdp
+Iran,2005,0.030366545,share_gdp
+Israel,2005,0.060511599,share_gdp
+United States of America,2006,0.040413423,share_gdp
+India,2006,0.026803816,share_gdp
+Pakistan,2006,0.036452552,share_gdp
+China,2006,0.018695916,share_gdp
+Russia,2006,0.032463572,share_gdp
+Iran,2006,0.033151938,share_gdp
+Israel,2006,0.058558728,share_gdp
+United States of America,2007,0.040733505,share_gdp
+India,2007,0.024782465,share_gdp
+Pakistan,2007,0.035119861,share_gdp
+China,2007,0.017501646,share_gdp
+Russia,2007,0.031185421,share_gdp
+Iran,2007,0.026539828,share_gdp
+Israel,2007,0.061623298,share_gdp
+United States of America,2008,0.044465955,share_gdp
+India,2008,0.026314608,share_gdp
+Pakistan,2008,0.03459371,share_gdp
+China,2008,0.017160425,share_gdp
+Russia,2008,0.03149486,share_gdp
+Iran,2008,0.026833419,share_gdp
+Israel,2008,0.062395115,share_gdp
+United States of America,2009,0.048757684,share_gdp
+India,2009,0.031293847,share_gdp
+Pakistan,2009,0.03265224,share_gdp
+China,2009,0.018935238,share_gdp
+Russia,2009,0.039240634,share_gdp
+Iran,2009,0.030477055,share_gdp
+Israel,2009,0.059766489,share_gdp
+United States of America,2010,0.04904023,share_gdp
+India,2010,0.028894633,share_gdp
+Pakistan,2010,0.030418933,share_gdp
+China,2010,0.017335199,share_gdp
+Russia,2010,0.035850857,share_gdp
+Iran,2010,0.027865481,share_gdp
+Israel,2010,0.057890753,share_gdp
+United States of America,2011,0.04822442,share_gdp
+India,2011,0.027044822,share_gdp
+Pakistan,2011,0.029192432,share_gdp
+China,2011,0.016590825,share_gdp
+Russia,2011,0.034330438,share_gdp
+Iran,2011,0.023816345,share_gdp
+Israel,2011,0.05632364,share_gdp
+United States of America,2012,0.0446171,share_gdp
+India,2012,0.026181663,share_gdp
+Pakistan,2012,0.030957735,share_gdp
+China,2012,0.017009427,share_gdp
+Russia,2012,0.036892404,share_gdp
+Iran,2012,0.026866085,share_gdp
+Israel,2012,0.055102205,share_gdp
+United States of America,2013,0.040237056,share_gdp
+India,2013,0.025488249,share_gdp
+Pakistan,2013,0.0308802,share_gdp
+China,2013,0.017143409,share_gdp
+Russia,2013,0.038540426,share_gdp
+Iran,2013,0.021807719,share_gdp
+Israel,2013,0.054437344,share_gdp
+United States of America,2014,0.036789182,share_gdp
+India,2014,0.025439818,share_gdp
+Pakistan,2014,0.030965797,share_gdp
+China,2014,0.017384093,share_gdp
+Russia,2014,0.04112993,share_gdp
+Iran,2014,0.021165571,share_gdp
+Israel,2014,0.056305746,share_gdp
+United States of America,2015,0.034644929,share_gdp
+India,2015,0.024574501,share_gdp
+Pakistan,2015,0.031629866,share_gdp
+China,2015,0.017767711,share_gdp
+Russia,2015,0.048715147,share_gdp
+Iran,2015,0.025570908,share_gdp
+Israel,2015,0.054229744,share_gdp
+United States of America,2016,0.034026023,share_gdp
+India,2016,0.025431515,share_gdp
+Pakistan,2016,0.032037767,share_gdp
+China,2016,0.017688866,share_gdp
+Russia,2016,0.054251477,share_gdp
+Iran,2016,0.027964356,share_gdp
+Israel,2016,0.054174877,share_gdp
+United States of America,2017,0.032977235,share_gdp
+India,2017,0.025315114,share_gdp
+Pakistan,2017,0.033644491,share_gdp
+China,2017,0.017112426,share_gdp
+Russia,2017,0.042489961,share_gdp
+Iran,2017,0.028443384,share_gdp
+Israel,2017,0.054268273,share_gdp
+United States of America,2018,0.033040005,share_gdp
+India,2018,0.024242845,share_gdp
+Pakistan,2018,0.035869618,share_gdp
+China,2018,0.016735782,share_gdp
+Russia,2018,0.037198224,share_gdp
+Iran,2018,0.023562949,share_gdp
+Israel,2018,0.052881972,share_gdp
+United States of America,2019,0.034092141,share_gdp
+India,2019,0.025459982,share_gdp
+Pakistan,2019,0.035058403,share_gdp
+China,2019,0.01682911,share_gdp
+Russia,2019,0.038603375,share_gdp
+Iran,2019,0.021469475,share_gdp
+Israel,2019,0.050721272,share_gdp
+United States of America,2020,0.036451876,share_gdp
+India,2020,0.028036158,share_gdp
+Pakistan,2020,0.034866791,share_gdp
+China,2020,0.017566995,share_gdp
+Russia,2020,0.041447171,share_gdp
+Iran,2020,0.021770103,share_gdp
+Israel,2020,0.052762641,share_gdp
+United States of America,2021,0.034045199,share_gdp
+India,2021,0.024687415,share_gdp
+Pakistan,2021,0.033892388,share_gdp
+China,2021,0.016052597,share_gdp
+Russia,2021,0.035759168,share_gdp
+Iran,2021,0.022239428,share_gdp
+Israel,2021,0.049349459,share_gdp
+United States of America,2022,0.033094772,share_gdp
+India,2022,0.023830981,share_gdp
+Pakistan,2022,0.03176832,share_gdp
+China,2022,0.016305339,share_gdp
+Russia,2022,0.046072888,share_gdp
+Iran,2022,0.021106213,share_gdp
+Israel,2022,0.044330122,share_gdp
+United States of America,2023,0.033044416,share_gdp
+India,2023,0.023567943,share_gdp
+Pakistan,2023,0.028807997,share_gdp
+China,2023,0.016648489,share_gdp
+Russia,2023,0.054023184,share_gdp
+Iran,2023,0.023517919,share_gdp
+Israel,2023,0.053847997,share_gdp
+United States of America,2024,0.034192165,share_gdp
+India,2024,0.022712033,share_gdp
+Pakistan,2024,0.026676004,share_gdp
+China,2024,0.017112974,share_gdp
+Russia,2024,0.070523386,share_gdp
+Iran,2024,0.020104318,share_gdp
+Israel,2024,0.087767167,share_gdp
+United States of America,1988,1252.315352,per_capita
+India,1988,13.86975812,per_capita
+Pakistan,1988,25.45379358,per_capita
+Iran,1988,348.1844896,per_capita
+Israel,1988,1638.093842,per_capita
+United States of America,1989,1289.963605,per_capita
+India,1989,12.6578792,per_capita
+Pakistan,1989,23.34527047,per_capita
+China,1989,10.00611201,per_capita
+Iran,1989,291.6506473,per_capita
+Israel,1989,1278.670873,per_capita
+United States of America,1990,1291.046141,per_capita
+India,1990,12.31734797,per_capita
+Pakistan,1990,24.61719133,per_capita
+China,1990,8.680399437,per_capita
+Iran,1990,286.4366113,per_capita
+Israel,1990,1476.428614,per_capita
+United States of America,1991,1174.41158,per_capita
+India,1991,9.86009304,per_capita
+Pakistan,1991,25.95759776,per_capita
+China,1991,8.423969638,per_capita
+Iran,1991,296.215691,per_capita
+Israel,1991,2000.353448,per_capita
+United States of America,1992,1259.674208,per_capita
+India,1992,9.047991611,per_capita
+Pakistan,1992,27.78551002,per_capita
+China,1992,10.39457416,per_capita
+Iran,1992,324.9334412,per_capita
+Israel,1992,1494.969009,per_capita
+United States of America,1993,1212.638864,per_capita
+India,1993,9.044571785,per_capita
+Pakistan,1993,26.44216303,per_capita
+China,1993,10.37627223,per_capita
+Russia,1993,52.3886361,per_capita
+Iran,1993,23.4933601,per_capita
+Israel,1993,1543.461417,per_capita
+United States of America,1994,1166.609236,per_capita
+India,1994,9.531597459,per_capita
+Pakistan,1994,25.75959544,per_capita
+China,1994,8.199252683,per_capita
+Russia,1994,91.52792367,per_capita
+Iran,1994,27.84552499,per_capita
+Israel,1994,1509.455674,per_capita
+United States of America,1995,1108.624577,per_capita
+India,1995,10.26103122,per_capita
+Pakistan,1995,27.6490514,per_capita
+China,1995,10.19696315,per_capita
+Russia,1995,85.87045242,per_capita
+Iran,1995,40.42834362,per_capita
+Israel,1995,1503.779621,per_capita
+United States of America,1996,1068.313388,per_capita
+India,1996,10.21131863,per_capita
+Pakistan,1996,25.97655294,per_capita
+China,1996,11.6469422,per_capita
+Russia,1996,106.7904228,per_capita
+Iran,1996,56.78399239,per_capita
+Israel,1996,1566.717373,per_capita
+United States of America,1997,1077.129883,per_capita
+India,1997,11.58787712,per_capita
+Pakistan,1997,23.62520359,per_capita
+China,1997,12.69976304,per_capita
+Russia,1997,118.7907817,per_capita
+Iran,1997,73.4240849,per_capita
+Israel,1997,1539.414699,per_capita
+United States of America,1998,1059.087917,per_capita
+India,1998,11.8156758,per_capita
+Pakistan,1998,22.27199077,per_capita
+China,1998,13.66841954,per_capita
+Russia,1998,53.84990017,per_capita
+Iran,1998,85.54554021,per_capita
+Israel,1998,1415.570529,per_capita
+United States of America,1999,1074.304866,per_capita
+India,1999,13.51118282,per_capita
+Pakistan,1999,20.74323497,per_capita
+China,1999,16.30574319,per_capita
+Russia,1999,43.84835298,per_capita
+Iran,1999,102.330971,per_capita
+Israel,1999,1305.682313,per_capita
+United States of America,2000,1142.781795,per_capita
+India,2000,13.63308525,per_capita
+Pakistan,2000,19.48125129,per_capita
+China,2000,17.58256142,per_capita
+Russia,2000,62.79740421,per_capita
+Iran,2000,126.3531831,per_capita
+Israel,2000,1380.789878,per_capita
+United States of America,2001,1172.976087,per_capita
+India,2001,13.67302342,per_capita
+Pakistan,2001,18.08539059,per_capita
+China,2001,20.84175576,per_capita
+Russia,2001,79.75718403,per_capita
+Iran,2001,155.0600855,per_capita
+Israel,2001,1373.651108,per_capita
+United States of America,2002,1324.756773,per_capita
+India,2002,13.55725265,per_capita
+Pakistan,2002,20.2818031,per_capita
+China,2002,23.60387635,per_capita
+Russia,2002,95.66881231,per_capita
+Iran,2002,47.7253352,per_capita
+Israel,2002,1261.10269,per_capita
+United States of America,2003,1527.058934,per_capita
+India,2003,14.75189063,per_capita
+Pakistan,2003,22.55581551,per_capita
+China,2003,25.67871123,per_capita
+Russia,2003,116.1566509,per_capita
+Iran,2003,54.62019969,per_capita
+Israel,2003,1275.830806,per_capita
+United States of America,2004,1692.225283,per_capita
+India,2004,17.96811546,per_capita
+Pakistan,2004,24.40250096,per_capita
+China,2004,29.19518193,per_capita
+Russia,2004,144.0630659,per_capita
+Iran,2004,75.46298726,per_capita
+Israel,2004,1311.95692,per_capita
+United States of America,2005,1812.136351,per_capita
+India,2005,20.13951604,per_capita
+Pakistan,2005,26.45381183,per_capita
+China,2005,32.7670152,per_capita
+Russia,2005,188.6609888,per_capita
+Iran,2005,95.69241226,per_capita
+Israel,2005,1337.422005,per_capita
+United States of America,2006,1878.694989,per_capita
+India,2006,20.58204956,per_capita
+Pakistan,2006,27.99469092,per_capita
+China,2006,39.15278266,per_capita
+Russia,2006,239.2150969,per_capita
+Iran,2006,120.4939387,per_capita
+Israel,2006,1372.918728,per_capita
+United States of America,2007,1963.539117,per_capita
+India,2007,23.90362119,per_capita
+Pakistan,2007,29.37740645,per_capita
+China,2007,47.0041286,per_capita
+Russia,2007,302.5154263,per_capita
+Iran,2007,125.8297064,per_capita
+Israel,2007,1648.877717,per_capita
+United States of America,2008,2164.504105,per_capita
+India,2008,27.51750507,per_capita
+Pakistan,2008,27.93118463,per_capita
+China,2008,59.29270838,per_capita
+Russia,2008,390.6833744,per_capita
+Iran,2008,147.6608955,per_capita
+Israel,2008,1965.780902,per_capita
+United States of America,2009,2303.004698,per_capita
+India,2009,31.82976821,per_capita
+Pakistan,2009,27.49001924,per_capita
+China,2009,72.20103737,per_capita
+Russia,2009,358.3247584,per_capita
+Iran,2009,165.6329162,per_capita
+Israel,2009,1785.5576,per_capita
+United States of America,2010,2384.29927,per_capita
+India,2010,37.33498175,per_capita
+Pakistan,2010,30.34631669,per_capita
+China,2010,78.33366103,per_capita
+Russia,2010,407.9946889,per_capita
+Iran,2010,176.264638,per_capita
+Israel,2010,1908.819865,per_capita
+United States of America,2011,2406.566901,per_capita
+India,2011,39.62931577,per_capita
+Pakistan,2011,34.49846729,per_capita
+China,2011,92.3919683,per_capita
+Russia,2011,487.9469516,per_capita
+Iran,2011,183.2702312,per_capita
+Israel,2011,2039.171669,per_capita
+United States of America,2012,2297.773849,per_capita
+India,2012,37.17873575,per_capita
+Pakistan,2012,36.32352359,per_capita
+China,2012,106.3618911,per_capita
+Russia,2012,565.2023694,per_capita
+Iran,2012,209.1470434,per_capita
+Israel,2012,1927.08234,per_capita
+United States of America,2013,2131.790634,per_capita
+India,2013,36.8225362,per_capita
+Pakistan,2013,36.55326367,per_capita
+China,2013,119.3611316,per_capita
+Russia,2013,611.6927199,per_capita
+Iran,2013,150.1920027,per_capita
+Israel,2013,2116.153418,per_capita
+United States of America,2014,2014.250489,per_capita
+India,2014,39.03533236,per_capita
+Pakistan,2014,40.79051996,per_capita
+China,2014,131.6346774,per_capita
+Russia,2014,585.0458638,per_capita
+Iran,2014,122.3100253,per_capita
+Israel,2014,2267.916598,per_capita
+United States of America,2015,1952.479882,per_capita
+India,2015,38.85294475,per_capita
+Pakistan,2015,44.04801052,per_capita
+China,2015,141.1451448,per_capita
+Russia,2015,457.8194701,per_capita
+Iran,2015,129.0479284,per_capita
+Israel,2015,2063.84484,per_capita
+United States of America,2016,1953.014706,per_capita
+India,2016,42.39971391,per_capita
+Pakistan,2016,45.73330651,per_capita
+China,2016,141.8324653,per_capita
+Russia,2016,475.8047629,per_capita
+Iran,2016,147.4299142,per_capita
+Israel,2016,2143.944737,per_capita
+United States of America,2017,1955.507831,per_capita
+India,2017,47.74802437,per_capita
+Pakistan,2017,51.36499826,per_capita
+China,2017,149.4309682,per_capita
+Russia,2017,458.2299848,per_capita
+Iran,2017,164.9853325,per_capita
+Israel,2017,2335.545664,per_capita
+United States of America,2018,2045.377688,per_capita
+India,2018,48.46137825,per_capita
+Pakistan,2018,51.27015747,per_capita
+China,2018,164.1686401,per_capita
+Russia,2018,420.9745523,per_capita
+Iran,2018,137.7793633,per_capita
+Israel,2018,2358.916434,per_capita
+United States of America,2019,2182.702608,per_capita
+India,2019,51.71074281,per_capita
+Pakistan,2019,44.67638,per_capita
+China,2019,169.0571962,per_capita
+Russia,2019,445.0238605,per_capita
+Iran,2019,56.8107143,per_capita
+Israel,2019,2369.158484,per_capita
+United States of America,2020,2295.195523,per_capita
+India,2020,52.24826594,per_capita
+Pakistan,2020,43.99519059,per_capita
+China,2020,180.9786127,per_capita
+Russia,2020,421.0878999,per_capita
+Iran,2020,38.2901855,per_capita
+Israel,2020,2499.034338,per_capita
+United States of America,2021,2373.149854,per_capita
+India,2021,54.17617905,per_capita
+Pakistan,2021,49.10637787,per_capita
+China,2021,200.4032294,per_capita
+Russia,2021,450.8421009,per_capita
+Iran,2021,64.79372602,per_capita
+Israel,2021,2744.191606,per_capita
+United States of America,2022,2527.040192,per_capita
+India,2022,56.35569448,per_capita
+Pakistan,2022,42.850388,per_capita
+China,2022,204.7253614,per_capita
+Russia,2022,703.628141,per_capita
+Iran,2022,83.86360073,per_capita
+Israel,2022,2596.347706,per_capita
+United States of America,2023,2674.690707,per_capita
+India,2023,57.47933207,per_capita
+Pakistan,2023,35.11235499,per_capita
+China,2023,208.403781,per_capita
+Russia,2023,749.6387488,per_capita
+Iran,2023,82.02680417,per_capita
+Israel,2023,2991.897275,per_capita
+United States of America,2024,2895.114375,per_capita
+India,2024,59.62602445,per_capita
+Pakistan,2024,40.77210173,per_capita
+China,2024,220.7448403,per_capita
+Russia,2024,1025.903028,per_capita
+Iran,2024,86.61475396,per_capita
+Israel,2024,4988.76833,per_capita
+India,1988,0.147782734,govt_share
+India,1989,0.135662007,govt_share
+China,1989,0.1320634,govt_share
+India,1990,0.124005839,govt_share
+China,1990,0.137473617,govt_share
+Iran,1990,0.144785054,govt_share
+India,1991,0.10857516,govt_share
+China,1991,0.14253641,govt_share
+Iran,1991,0.124876185,govt_share
+India,1992,0.103122997,govt_share
+China,1992,0.168676255,govt_share
+Iran,1992,0.098969328,govt_share
+India,1993,0.109685971,govt_share
+Pakistan,1993,0.251016888,govt_share
+China,1993,0.147961048,govt_share
+Iran,1993,0.05139503,govt_share
+India,1994,0.103457364,govt_share
+Pakistan,1994,0.273959292,govt_share
+China,1994,0.140883852,govt_share
+Iran,1994,0.075988956,govt_share
+India,1995,0.105032518,govt_share
+Pakistan,1995,0.272062255,govt_share
+China,1995,0.151579224,govt_share
+Iran,1995,0.084985039,govt_share
+India,1996,0.103272806,govt_share
+Pakistan,1996,0.24575827,govt_share
+China,1996,0.149527565,govt_share
+Iran,1996,0.106492517,govt_share
+India,1997,0.106779015,govt_share
+Pakistan,1997,0.250372808,govt_share
+China,1997,0.140949697,govt_share
+Iran,1997,0.118679929,govt_share
+India,1998,0.106595076,govt_share
+Pakistan,1998,0.234468863,govt_share
+China,1998,0.130582586,govt_share
+Russia,1998,0.06905517,govt_share
+Iran,1998,0.12943238,govt_share
+India,1999,0.116405638,govt_share
+Pakistan,1999,0.239751602,govt_share
+China,1999,0.125206707,govt_share
+Russia,1999,0.089886036,govt_share
+Iran,1999,0.125684128,govt_share
+India,2000,0.11503057,govt_share
+Pakistan,2000,0.22422817,govt_share
+China,2000,0.113387432,govt_share
+Russia,2000,0.108196314,govt_share
+Iran,2000,0.14036992,govt_share
+Israel,2000,0.140646372,govt_share
+United States of America,2001,0.095593665,govt_share
+India,2001,0.105239515,govt_share
+Pakistan,2001,0.240323891,govt_share
+China,2001,0.114198984,govt_share
+Russia,2001,0.113025343,govt_share
+Iran,2001,0.14573764,govt_share
+Israel,2001,0.136719138,govt_share
+United States of America,2002,0.102762263,govt_share
+India,2002,0.098795559,govt_share
+Pakistan,2002,0.225692981,govt_share
+China,2002,0.111891274,govt_share
+Russia,2002,0.111384897,govt_share
+Iran,2002,0.111046598,govt_share
+Israel,2002,0.127552139,govt_share
+United States of America,2003,0.112974322,govt_share
+India,2003,0.091001182,govt_share
+Pakistan,2003,0.254143725,govt_share
+China,2003,0.109738296,govt_share
+Russia,2003,0.11292257,govt_share
+Iran,2003,0.121257682,govt_share
+Israel,2003,0.137966468,govt_share
+United States of America,2004,0.119674566,govt_share
+India,2004,0.101174291,govt_share
+Pakistan,2004,0.260578625,govt_share
+China,2004,0.108797946,govt_share
+Russia,2004,0.111703811,govt_share
+Iran,2004,0.148958034,govt_share
+Israel,2004,0.142982661,govt_share
+United States of America,2005,0.120527815,govt_share
+India,2005,0.104231283,govt_share
+Pakistan,2005,0.244505566,govt_share
+China,2005,0.102287613,govt_share
+Russia,2005,0.113363179,govt_share
+Iran,2005,0.136125421,govt_share
+Israel,2005,0.143001025,govt_share
+United States of America,2006,0.119950802,govt_share
+India,2006,0.094784159,govt_share
+Pakistan,2006,0.21365113,govt_share
+China,2006,0.101873047,govt_share
+Russia,2006,0.112065367,govt_share
+Iran,2006,0.143206777,govt_share
+Israel,2006,0.140969298,govt_share
+United States of America,2007,0.117858271,govt_share
+India,2007,0.088511822,govt_share
+Pakistan,2007,0.180277477,govt_share
+China,2007,0.096277365,govt_share
+Russia,2007,0.09787339,govt_share
+Iran,2007,0.152530832,govt_share
+Israel,2007,0.153467199,govt_share
+United States of America,2008,0.119712729,govt_share
+India,2008,0.088887814,govt_share
+Pakistan,2008,0.161334729,govt_share
+China,2008,0.076465093,govt_share
+Russia,2008,0.098631584,govt_share
+Iran,2008,0.129836313,govt_share
+Israel,2008,0.151562352,govt_share
+United States of America,2009,0.117776499,govt_share
+India,2009,0.103147376,govt_share
+Pakistan,2009,0.169404921,govt_share
+China,2009,0.073992885,govt_share
+Russia,2009,0.101920224,govt_share
+Iran,2009,0.156906709,govt_share
+Israel,2009,0.144654832,govt_share
+United States of America,2010,0.123331774,govt_share
+India,2010,0.098642303,govt_share
+Pakistan,2010,0.168346661,govt_share
+China,2010,0.069691158,govt_share
+Russia,2010,0.101222956,govt_share
+Iran,2010,0.159675404,govt_share
+Israel,2010,0.146018745,govt_share
+United States of America,2011,0.124301978,govt_share
+India,2011,0.095927674,govt_share
+Pakistan,2011,0.169807373,govt_share
+China,2011,0.061661812,govt_share
+Russia,2011,0.103214636,govt_share
+Iran,2011,0.130100181,govt_share
+Israel,2011,0.143401614,govt_share
+United States of America,2012,0.119864633,govt_share
+India,2012,0.092726211,govt_share
+Pakistan,2012,0.160896513,govt_share
+China,2012,0.060353959,govt_share
+Russia,2012,0.108415559,govt_share
+Iran,2012,0.193232893,govt_share
+Israel,2012,0.139434891,govt_share
+United States of America,2013,0.112449547,govt_share
+India,2013,0.092959832,govt_share
+Pakistan,2013,0.159277783,govt_share
+China,2013,0.059676331,govt_share
+Russia,2013,0.111221783,govt_share
+Iran,2013,0.156112745,govt_share
+Israel,2013,0.137302122,govt_share
+United States of America,2014,0.104147816,govt_share
+India,2014,0.095047905,govt_share
+Pakistan,2014,0.173436185,govt_share
+China,2014,0.05989543,govt_share
+Russia,2014,0.11772198,govt_share
+Iran,2014,0.148031381,govt_share
+Israel,2014,0.147350213,govt_share
+United States of America,2015,0.098898351,govt_share
+India,2015,0.08830488,govt_share
+Pakistan,2015,0.180058727,govt_share
+China,2015,0.056048906,govt_share
+Russia,2015,0.138107112,govt_share
+Iran,2015,0.155491041,govt_share
+Israel,2015,0.144627184,govt_share
+United States of America,2016,0.096301558,govt_share
+India,2016,0.090794974,govt_share
+Pakistan,2016,0.180881568,govt_share
+China,2016,0.054767256,govt_share
+Russia,2016,0.14828395,govt_share
+Iran,2016,0.154065045,govt_share
+Israel,2016,0.143263816,govt_share
+United States of America,2017,0.093701075,govt_share
+India,2017,0.09389758,govt_share
+Pakistan,2017,0.175891865,govt_share
+China,2017,0.052628673,govt_share
+Russia,2017,0.121991822,govt_share
+Iran,2017,0.160487097,govt_share
+Israel,2017,0.141947804,govt_share
+United States of America,2018,0.093467645,govt_share
+India,2018,0.09102596,govt_share
+Pakistan,2018,0.187722096,govt_share
+China,2018,0.050485016,govt_share
+Russia,2018,0.114031605,govt_share
+Iran,2018,0.146179038,govt_share
+Israel,2018,0.135345239,govt_share
+United States of America,2019,0.095201216,govt_share
+India,2019,0.093198649,govt_share
+Pakistan,2019,0.183997389,govt_share
+China,2019,0.049067643,govt_share
+Russia,2019,0.113989992,govt_share
+Iran,2019,0.145867213,govt_share
+Israel,2019,0.131653363,govt_share
+United States of America,2020,0.081789327,govt_share
+India,2020,0.087610806,govt_share
+Pakistan,2020,0.171787905,govt_share
+China,2020,0.04903691,govt_share
+Russia,2020,0.105860676,govt_share
+Iran,2020,0.144478559,govt_share
+Israel,2020,0.11831466,govt_share
+United States of America,2021,0.079919726,govt_share
+India,2021,0.08040867,govt_share
+Pakistan,2021,0.183616297,govt_share
+China,2021,0.049280807,govt_share
+Russia,2021,0.103141867,govt_share
+Iran,2021,0.141040445,govt_share
+Israel,2021,0.124019989,govt_share
+United States of America,2022,0.091148951,govt_share
+India,2022,0.079947629,govt_share
+Pakistan,2022,0.159203338,govt_share
+China,2022,0.048790916,govt_share
+Russia,2022,0.12957061,govt_share
+Iran,2022,0.139383976,govt_share
+Israel,2022,0.121004674,govt_share
+United States of America,2023,0.091085018,govt_share
+India,2023,0.079015372,govt_share
+Pakistan,2023,0.149870391,govt_share
+China,2023,0.050293161,govt_share
+Russia,2023,0.147892332,govt_share
+Iran,2023,0.14984732,govt_share
+Israel,2023,0.138069097,govt_share
+United States of America,2024,0.091115892,govt_share
+India,2024,0.07634149,govt_share
+Pakistan,2024,0.138275708,govt_share
+China,2024,0.050647422,govt_share
+Russia,2024,0.188983963,govt_share
+Iran,2024,0.125457096,govt_share
+Israel,2024,0.199858779,govt_share
